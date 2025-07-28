@@ -1,1 +1,1 @@
-## curya-intenship
+## cureya-internship
